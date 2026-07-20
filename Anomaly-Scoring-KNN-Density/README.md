@@ -1,4 +1,4 @@
-# Anomaly Scoring
+
 # Anomaly Scoring using KNN Distance and Density Deviation
 
 ## Overview
