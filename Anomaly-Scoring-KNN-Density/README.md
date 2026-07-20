@@ -72,7 +72,6 @@ The program generates:
 
 ## Author
 
-**Abdulbari Mohammed Alameer**  
-Master of Technology (M.Tech)  
+**Abdulbari Mohammed Alameer**    
 Department of Computer Science and Engineering  
-Tezpur University
+
