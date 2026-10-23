@@ -107,11 +107,10 @@ All random steps use `RANDOM_STATE = 42`, so the numbers above are reproducible.
 
 The dataset (`Client.csv`, `Record.csv`) was provided to course participants and is **not redistributed here**. See [`data/README.md`](data/README.md).
 
-## Acknowledgements and AI use
+## Acknowledgements
 
 - Course materials: GCI World 2026 September, Matsuo-Iwasawa Lab, The University of Tokyo.
 - Market sources are listed in the notebook's *References* section.
-- Generative AI tools (Claude by Anthropic and ChatGPT by OpenAI) were used for coding support, analysis review and editing, as disclosed in the course submission. All results were run, checked and interpreted by the author.
 
 ## Author
 
