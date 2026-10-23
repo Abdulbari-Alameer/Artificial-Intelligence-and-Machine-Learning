@@ -28,6 +28,8 @@ A data-driven business proposal for **Company A**, an anonymous mobile operator 
 
 The financial figures are **scenario estimates under stated assumptions**, not guaranteed returns. The proposal starts with a randomised pilot.
 
+📄 **Slides:** [`reports/Slides.pdf`](reports/Slides.pdf) · 📓 **Notebook:** [`notebooks/churn_analysis_and_proposal.ipynb`](notebooks/churn_analysis_and_proposal.ipynb)
+
 <p align="center">
   <img src="reports/figures/01_churn_by_tenure.png" width="85%" alt="Churn rate by months with the company, peaking at month 11">
 </p>
@@ -75,7 +77,7 @@ Telecom-Churn-Retention-Proposal/
 │   └── churn_analysis_and_proposal.ipynb   # full, reproducible analysis (outputs included)
 ├── reports/
 │   ├── figures/                            # charts used in the slides and this README
-│   └── slides.pdf                          # final presentation (15 slides)
+│   └── Slides.pdf                          # final presentation (15 slides)
 ├── data/
 │   └── README.md                           # how to obtain the data (not included)
 ├── requirements.txt
